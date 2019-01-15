@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PMCC4W Sydney",
-    "currentPage": "ACAIA Camp 2019.html",
+    "currentPage": "ACAIA-Camp-2019.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2075,10 +2075,10 @@
         }
       ]
     },
-    "ACAIA Camp 2019.html": {
+    "ACAIA-Camp-2019.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
-        "title": "ACAIA Camp 2019",
+        "title": "ACAIA-Camp-2019",
         "order": 1
       },
       "components": [
