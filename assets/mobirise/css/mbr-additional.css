@@ -3587,3 +3587,48 @@ body {
     width: 100% !important;
   }
 }
+.cid-rfvmEWqvZs {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #080707;
+}
+.cid-rfvmEWqvZs .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-rfvmEWqvZs .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-rfvmEWqvZs .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-rfvmEWqvZs .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-rfvmEWqvZs .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-rfvmEWqvZs .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-rfvmEWqvZs .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-rfvmEWqvZs .btn-social {
+  border: none !important;
+}
+.cid-rfvmEWqvZs [class^="socicon-"]:before,
+.cid-rfvmEWqvZs [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-rfvmEWqvZs .btn {
+    font-size: 20px !important;
+  }
+}
