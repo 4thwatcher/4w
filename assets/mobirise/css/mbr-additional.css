@@ -3548,6 +3548,11 @@ body {
     font-size: 20px !important;
   }
 }
-.cid-rfuSy5BXwF {
-  background-image: url("../../../assets/images/jumbotron.jpg");
+.cid-rfuVffre8o {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rfuVffre8o .mbr-section-subtitle {
+  color: #767676;
 }
