@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "PMCC Sydney 13th Church Anniversary.html",
+    "currentPage": "3thAnniversary.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2399,7 +2399,7 @@
         }
       ]
     },
-    "PMCC Sydney 13th Church Anniversary.html": {
+    "3thAnniversary.html": {
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "PMCC Sydney 13th Church Anniversary",
